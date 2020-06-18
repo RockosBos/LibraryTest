@@ -1,0 +1,12 @@
+C:\Users\Nicholas Kessey\Documents\GitHub\LibraryTest\libraryTest\LibraryService\bin\Debug\netcoreapp3.1\LibraryService.deps.json
+C:\Users\Nicholas Kessey\Documents\GitHub\LibraryTest\libraryTest\LibraryService\bin\Debug\netcoreapp3.1\LibraryService.dll
+C:\Users\Nicholas Kessey\Documents\GitHub\LibraryTest\libraryTest\LibraryService\bin\Debug\netcoreapp3.1\LibraryService.pdb
+C:\Users\Nicholas Kessey\Documents\GitHub\LibraryTest\libraryTest\LibraryService\bin\Debug\netcoreapp3.1\LibraryData.dll
+C:\Users\Nicholas Kessey\Documents\GitHub\LibraryTest\libraryTest\LibraryService\bin\Debug\netcoreapp3.1\LibraryData.pdb
+C:\Users\Nicholas Kessey\Documents\GitHub\LibraryTest\libraryTest\LibraryService\obj\Debug\netcoreapp3.1\LibraryService.csprojAssemblyReference.cache
+C:\Users\Nicholas Kessey\Documents\GitHub\LibraryTest\libraryTest\LibraryService\obj\Debug\netcoreapp3.1\LibraryService.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas Kessey\Documents\GitHub\LibraryTest\libraryTest\LibraryService\obj\Debug\netcoreapp3.1\LibraryService.AssemblyInfoInputs.cache
+C:\Users\Nicholas Kessey\Documents\GitHub\LibraryTest\libraryTest\LibraryService\obj\Debug\netcoreapp3.1\LibraryService.AssemblyInfo.cs
+C:\Users\Nicholas Kessey\Documents\GitHub\LibraryTest\libraryTest\LibraryService\obj\Debug\netcoreapp3.1\LibraryService.csproj.CopyComplete
+C:\Users\Nicholas Kessey\Documents\GitHub\LibraryTest\libraryTest\LibraryService\obj\Debug\netcoreapp3.1\LibraryService.dll
+C:\Users\Nicholas Kessey\Documents\GitHub\LibraryTest\libraryTest\LibraryService\obj\Debug\netcoreapp3.1\LibraryService.pdb

@@ -10,6 +10,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.EntityFrameworkCore;
+using LibraryService;
 
 namespace libraryTest
 {
@@ -25,6 +26,10 @@ namespace libraryTest
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddMvc();
+            services.AddSingleton(Configuration);
+            services.AddScoped<ILibraryAsset, LibraryAssetService>();
+
             services.AddControllersWithViews();
 
             services.AddDbContext<LibraryContext>(options => options.UseSqlServer(Configuration.GetConnectionString("LibraryConnection")));

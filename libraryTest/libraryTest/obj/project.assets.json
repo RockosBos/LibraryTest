@@ -1294,6 +1294,19 @@
         "runtime": {
           "bin/placeholder/LibraryData.dll": {}
         }
+      },
+      "LibraryService/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "LibraryData": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LibraryService.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LibraryService.dll": {}
+        }
       }
     }
   },
@@ -4956,11 +4969,17 @@
       "type": "project",
       "path": "../LibraryData/LibraryData.csproj",
       "msbuildProject": "../LibraryData/LibraryData.csproj"
+    },
+    "LibraryService/1.0.0": {
+      "type": "project",
+      "path": "../LibraryService/LibraryService.csproj",
+      "msbuildProject": "../LibraryService/LibraryService.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "LibraryData >= 1.0.0",
+      "LibraryService >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 3.1.3",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.3",
       "Microsoft.EntityFrameworkCore.Tools >= 3.1.3"
@@ -4998,6 +5017,9 @@
           "projectReferences": {
             "C:\\Users\\Nicholas Kessey\\Documents\\GitHub\\LibraryTest\\libraryTest\\LibraryData\\LibraryData.csproj": {
               "projectPath": "C:\\Users\\Nicholas Kessey\\Documents\\GitHub\\LibraryTest\\libraryTest\\LibraryData\\LibraryData.csproj"
+            },
+            "C:\\Users\\Nicholas Kessey\\Documents\\GitHub\\LibraryTest\\libraryTest\\LibraryService\\LibraryService.csproj": {
+              "projectPath": "C:\\Users\\Nicholas Kessey\\Documents\\GitHub\\LibraryTest\\libraryTest\\LibraryService\\LibraryService.csproj"
             }
           }
         }

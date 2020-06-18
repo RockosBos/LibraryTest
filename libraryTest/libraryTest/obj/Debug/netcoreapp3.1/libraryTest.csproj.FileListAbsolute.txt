@@ -68,3 +68,6 @@ C:\Users\Nicholas Kessey\Documents\GitHub\LibraryTest\libraryTest\libraryTest\bi
 C:\Users\Nicholas Kessey\Documents\GitHub\LibraryTest\libraryTest\libraryTest\bin\Debug\netcoreapp3.1\LibraryData.pdb
 C:\Users\Nicholas Kessey\Documents\GitHub\LibraryTest\libraryTest\libraryTest\obj\Debug\netcoreapp3.1\libraryTest.csproj.CoreCompileInputs.cache
 C:\Users\Nicholas Kessey\Documents\GitHub\LibraryTest\libraryTest\libraryTest\obj\Debug\netcoreapp3.1\libraryTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nicholas Kessey\Documents\GitHub\LibraryTest\libraryTest\libraryTest\bin\Debug\netcoreapp3.1\LibraryService.dll
+C:\Users\Nicholas Kessey\Documents\GitHub\LibraryTest\libraryTest\libraryTest\bin\Debug\netcoreapp3.1\LibraryService.pdb
+C:\Users\Nicholas Kessey\Documents\GitHub\LibraryTest\libraryTest\libraryTest\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Index.cshtml.g.cs
